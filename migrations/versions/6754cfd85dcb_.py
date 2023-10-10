@@ -101,8 +101,6 @@ def upgrade():
     sa.PrimaryKeyConstraint('id')
     )
 
-    if environment == "production":
-      op.execute(f"ALTER TABLE users_pledges SET SCHEMA {SCHEMA};")
     # ### end Alembic commands ###
 
 
