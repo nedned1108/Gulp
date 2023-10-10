@@ -3,7 +3,7 @@
 Welcome to Gulp! This is a clone of the Yelp website, which provides locals with a user friendly platform to advertise and review businesses in New York and San Francisco.
 We worked on this as a team of four to round off our experiences as students at AppAcademy.
 
-Deployed Live Link: https://gulp.onrender.com/
+Deployed Live Link: https://gulp-hz4f.onrender.com/
 
 ## Major Features
 - There are 4 deployed features currently in this project, 2 of which have full CRUD(Create, Read, Update, Delete):
